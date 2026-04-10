@@ -45,7 +45,7 @@ It focuses on **clarity, simplicity, and reliability**, making it ideal for lear
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/simple-object-detection-yolo.git
+git clone https://github.com/sharon8590/simple-object-detection-yolo.git
 cd simple-object-detection-yolo
 ```
 
